@@ -1,0 +1,152 @@
+[
+  {
+    "id": "62044001",
+    "nom": "ATTIN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.765833,
+    "lat": 50.485333,
+    "alt": 21,
+    "postePublic": true
+  },
+  {
+    "id": "62054001",
+    "nom": "CAP-GRIS-NEZ",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.582833,
+    "lat": 50.869667,
+    "alt": 48,
+    "postePublic": true
+  },
+  {
+    "id": "62076002",
+    "nom": "BAINGHEN_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.906667,
+    "lat": 50.750833,
+    "alt": 117,
+    "postePublic": true
+  },
+  {
+    "id": "62160001",
+    "nom": "BOULOGNE-SEM",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 1.599667,
+    "lat": 50.7325,
+    "alt": 73,
+    "postePublic": true
+  },
+  {
+    "id": "62268003",
+    "nom": "DESVRES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.821667,
+    "lat": 50.635,
+    "alt": 185,
+    "postePublic": true
+  },
+  {
+    "id": "62298001",
+    "nom": "CAMBRAI-EPINOY",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.163833,
+    "lat": 50.2255,
+    "alt": 76,
+    "postePublic": true
+  },
+  {
+    "id": "62333001",
+    "nom": "FIEFS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.3255,
+    "lat": 50.502667,
+    "alt": 180,
+    "postePublic": true
+  },
+  {
+    "id": "62468001",
+    "nom": "HUMIERES_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.223333,
+    "lat": 50.3915,
+    "alt": 127,
+    "postePublic": true
+  },
+  {
+    "id": "62516002",
+    "nom": "LILLERS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.4965,
+    "lat": 50.5795,
+    "alt": 19,
+    "postePublic": true
+  },
+  {
+    "id": "62548002",
+    "nom": "CALAIS-MARCK",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.956167,
+    "lat": 50.959833,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "62613001",
+    "nom": "NIELLES-LES-BLEQUIN_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.061833,
+    "lat": 50.6725,
+    "alt": 145,
+    "postePublic": true
+  },
+  {
+    "id": "62685001",
+    "nom": "RADINGHEM",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.113667,
+    "lat": 50.549167,
+    "alt": 115,
+    "postePublic": true
+  },
+  {
+    "id": "62784001",
+    "nom": "SAULTY",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.522167,
+    "lat": 50.222167,
+    "alt": 174,
+    "postePublic": true
+  },
+  {
+    "id": "62826001",
+    "nom": "LE-TOUQUET",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 1.622833,
+    "lat": 50.5145,
+    "alt": 5,
+    "postePublic": true
+  },
+  {
+    "id": "62873001",
+    "nom": "ARRAS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.87,
+    "lat": 50.255833,
+    "alt": 74,
+    "postePublic": true
+  }
+]

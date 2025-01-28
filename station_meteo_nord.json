@@ -1,0 +1,102 @@
+[
+  {
+    "id": "59178001",
+    "nom": "DOUAI",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.067167,
+    "lat": 50.389667,
+    "alt": 26,
+    "postePublic": true
+  },
+  {
+    "id": "59183001",
+    "nom": "DUNKERQUE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 2.3395,
+    "lat": 51.055833,
+    "alt": 11,
+    "postePublic": true
+  },
+  {
+    "id": "59343001",
+    "nom": "LILLE-LESQUIN",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.0975,
+    "lat": 50.57,
+    "alt": 47,
+    "postePublic": true
+  },
+  {
+    "id": "59392001",
+    "nom": "MAUBEUGE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.9665,
+    "lat": 50.271667,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "59512001",
+    "nom": "ROUBAIX",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.180333,
+    "lat": 50.7075,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "59534001",
+    "nom": "ST-HILAIRE-SUR-HELPE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.925167,
+    "lat": 50.1455,
+    "alt": 185,
+    "postePublic": true
+  },
+  {
+    "id": "59580003",
+    "nom": "STEENVOORDE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.568833,
+    "lat": 50.829833,
+    "alt": 42,
+    "postePublic": true
+  },
+  {
+    "id": "59604001",
+    "nom": "TROISVILLES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.463667,
+    "lat": 50.098,
+    "alt": 125,
+    "postePublic": true
+  },
+  {
+    "id": "59606004",
+    "nom": "VALENCIENNES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.461,
+    "lat": 50.328333,
+    "alt": 50,
+    "postePublic": true
+  },
+  {
+    "id": "59647001",
+    "nom": "WATTEN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.213333,
+    "lat": 50.833833,
+    "alt": 7,
+    "postePublic": true
+  }
+]
